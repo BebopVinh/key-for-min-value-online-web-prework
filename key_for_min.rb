@@ -18,4 +18,5 @@ binding.pry
       new_min
     end
   end
+  new_min
 end
