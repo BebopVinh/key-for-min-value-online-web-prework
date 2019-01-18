@@ -16,7 +16,6 @@ binding.pry
       new_min = value
     else
       new_min
-
-    new_min
+    end
   end
 end
