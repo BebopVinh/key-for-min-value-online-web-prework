@@ -6,6 +6,7 @@ def key_for_min_value(name_hash)
   name_hash.each_value do |value|
     min_array << value
   end
-  
-    
+
+  new_min = min_array[0]
+
 end
